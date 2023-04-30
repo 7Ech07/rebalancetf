@@ -6,6 +6,6 @@ Last major update: 29th March 2023
 
 |Multi-Class — Hitscan Changes|
 | --- |
-|(+) Changed: Accuracy steadily improves in a linear manner the longer the weapon isn't fired|
+|![Plus](30px_Pictogram_Plus.png "Plus")  Changed: Accuracy steadily improves in a linear manner the longer the weapon isn't fired|
 |(!) Changed: Initial shotgun reload time decreased from 0.87-1.035 seconds depending on class to a fixed 1 second|
 |(!) Info: Before, hitscan weapons stay inaccurate for 1.25 seconds until being perfectly accurate again||
